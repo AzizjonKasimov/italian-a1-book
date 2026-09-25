@@ -3,6 +3,7 @@
 A self-study Italian A1 course as a single interactive web page: 30 chapters, one per day, each planned to fit 30 minutes, with recorded Italian audio for every dialogue line and every word.
 
 - **Public site:** https://azizjonkasimov.github.io/italian-a1-book/ (GitHub Pages, built from `index.html` on `main`)
+- **Claude page:** https://claude.ai/artifact/9qMwLh7kXquKxRxZtbA3vK (private link, needs a Claude sign-in)
 - **Run locally:** `node serve.js`, then open http://localhost:8766
 
 Sister project: [Deutsch in 30 Tagen](https://github.com/AzizjonKasimov/german-a1-book), the German A1 edition, built on the same engine.
